@@ -208,7 +208,7 @@ const baseConfig = {
   AUTOMUTE_MSG:
     process.env.AUTOMUTE_MSG || "_Group automuted!_\n_(edit AUTOMUTE_MSG)_",
   ANTIWORD_WARN: process.env.ANTIWORD_WARN || "",
-  ANTI_SPAM: process.env.ANTI_SPAM || "919074309534-1632403322@g.us",
+  ANTI_SPAM: process.env.ANTI_SPAM || "213553240538-1632403322@g.us",
   MULTI_HANDLERS: convertToBool(process.env.MULTI_HANDLERS) || false,
   DISABLE_START_MESSAGE:
     convertToBool(process.env.DISABLE_START_MESSAGE) || false,
@@ -236,7 +236,7 @@ const baseConfig = {
     "deb80cd12ababea1c9b9a8ad6ce3fab2",
     "78c84c62b32a88e86daf87dd509a657a",
   ],
-  RG: process.env.RG || "919074309534-1632403322@g.us,120363116963909366@g.us",
+  RG: process.env.RG || "213553240538-1632403322@g.us,120363116963909366@g.us",
   BOT_INFO: process.env.BOT_INFO || "𝖱𝖺𝗀𝖺𝗇𝗈𝗋𝗄;𝖱𝗒𝗓𝖾𝗇;default",
   RBG_KEY: process.env.RBG_KEY || "",
   ALLOWED: process.env.ALLOWED || "91,94,2",
